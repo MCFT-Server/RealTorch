@@ -1,0 +1,5 @@
+name: RealTorch
+main: realtorch.RealTorch
+version: "1.0.0"
+api: ["1.0.0"]
+author: maru
